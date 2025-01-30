@@ -30,15 +30,15 @@
   "icon": "smartphone",
   "pages": [
     {
-      "id": "YENİ SÜT KAYDI",
-      "isDefault": false
-    },
-    {
       "id": "ANA SAYFA",
       "isDefault": true
     },
     {
       "id": "SÜT KAYITLARI",
+      "isDefault": false
+    },
+    {
+      "id": "YENİ SÜT KAYDI",
       "isDefault": false
     }
   ],
